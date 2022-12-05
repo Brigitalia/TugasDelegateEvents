@@ -1,0 +1,12 @@
+D:\Brigita\FormCalculatorApp\bin\Debug\FormCalculatorApp.exe.config
+D:\Brigita\FormCalculatorApp\bin\Debug\FormCalculatorApp.exe
+D:\Brigita\FormCalculatorApp\bin\Debug\FormCalculatorApp.pdb
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.csproj.AssemblyReference.cache
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.CalculatorForm.resources
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.FormHasilHitung.resources
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.Properties.Resources.resources
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.csproj.GenerateResource.cache
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.csproj.CoreCompileInputs.cache
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.exe
+D:\Brigita\FormCalculatorApp\obj\Debug\FormCalculatorApp.pdb
